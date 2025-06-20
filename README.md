@@ -1,8 +1,6 @@
 # Blackjack
 This is a complete implementation of the classic Blackjack (21) card game built with Python and Tkinter. The game features a graphical user interface with realistic card dealing, scoring, and game mechanics. It includes all standard Blackjack rules plus special features like splitting pairs.
 
-This is a complete implementation of the classic Blackjack (21) card game built with Python and Tkinter. The game features a graphical user interface with realistic card dealing, scoring, and game mechanics. It includes all standard Blackjack rules plus special features like splitting pairs.
-
 The game runs in a resizable window that adapts to different screen sizes while maintaining proper text formatting and layout. The elegant interface includes card suit symbols (♣♦♥♠) and a customizable background image.
 
 Features
